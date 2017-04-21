@@ -1,0 +1,8 @@
+[Activity]
+name = DidgArt
+activity_version = 27
+host_version = 1
+bundle_id = mulawa.DidgArt
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
