@@ -6,3 +6,5 @@ bundle_id = mulawa.DidgArt
 icon = activity
 show_launcher = yes
 exec = sugar-activity activity.PeterActivity
+license = GPLv3+
+repository = https://github.com/sugarlabs/didg-art-activity.git
